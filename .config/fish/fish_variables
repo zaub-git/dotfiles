@@ -1,0 +1,5 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __fish_initialized:4300
+SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x233
+SETUVAR fish_greeting:Ich\x20verstehe\x20im\x20Moment\x20noch\x20nicht\x20alles\x2c\x20aber\x20ich\x20lerne\x20jeden\x20Tag\x20dazu\x20und\x20werde\x20mich\x20verbessern\x2e
